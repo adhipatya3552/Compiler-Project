@@ -357,8 +357,8 @@ app-compiler/
 
 ```bash
 # Clone the repository
-git clone https://github.com/adhipatya3552/compiler-project.git
-cd compiler-project/backend
+git clone https://github.com/adhipatya3552/app-compiler.git
+cd app-compiler/backend
 
 # Create and activate virtual environment
 python -m venv venv
@@ -380,7 +380,7 @@ Server runs at: `http://localhost:8000`
 ### Frontend Setup
 
 ```bash
-cd compiler-project/frontend
+cd app-compiler/frontend
 
 # Install dependencies
 npm install
