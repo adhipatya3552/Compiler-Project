@@ -1,0 +1,326 @@
+{
+  "fast_mode_results": [
+    {
+      "prompt": "Build a CRM with login, contacts, dashboard, role-based access, and premium plan...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 18740.23,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create an e-commerce platform with product listings, shopping cart, checkout wit...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 23949.51,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build a project management tool like Trello with boards, cards, team members, an...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 15827.34,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create a hospital management system with patient records, doctor schedules, bill...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 37397.46,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build a learning management system with courses, video lessons, quizzes, certifi...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 21202.91,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create a food delivery app with restaurants, menus, cart, real-time order tracki...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 32365.75,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build a SaaS analytics dashboard with multi-tenant support, custom reports, data...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 18317.97,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create a job board with employer and candidate profiles, job postings, applicati...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 19648.67,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build an app.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 9412.06,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "I want a website for my business.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 16580.38,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build a free app with premium features but no login required and also admin acce...",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 21993.28,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create a real-time chat app that also works offline without any backend.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 8427.88,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build something like Netflix but better.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 21281.63,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create an Uber clone.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 29264.6,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Build an app where all users are admins but only some can see data.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 11042.88,
+      "failure_reason": null,
+      "mode": "fast"
+    },
+    {
+      "prompt": "Create a social media platform.",
+      "success": true,
+      "stages_completed": 1,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 25392.54,
+      "failure_reason": null,
+      "mode": "fast"
+    }
+  ],
+  "deep_mode_results": [
+    {
+      "prompt": "Build a CRM with login, contacts, dashboard, role-based access, and premium plan...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 65864.21,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create an e-commerce platform with product listings, shopping cart, checkout wit...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 41717.61,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build a project management tool like Trello with boards, cards, team members, an...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 1,
+      "retries": 0,
+      "latency_ms": 49866.08,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create a hospital management system with patient records, doctor schedules, bill...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 1,
+      "retries": 0,
+      "latency_ms": 77518.56,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build a learning management system with courses, video lessons, quizzes, certifi...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 63856.53,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create a food delivery app with restaurants, menus, cart, real-time order tracki...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 80724.08,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build a SaaS analytics dashboard with multi-tenant support, custom reports, data...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 50603.33,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create a job board with employer and candidate profiles, job postings, applicati...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 72263.63,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build an app.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 41976.03,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "I want a website for my business.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 33000.44,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build a free app with premium features but no login required and also admin acce...",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 29394.11,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create a real-time chat app that also works offline without any backend.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 32690.67,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build something like Netflix but better.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 1,
+      "retries": 0,
+      "latency_ms": 56262.61,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create an Uber clone.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 62234.88,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Build an app where all users are admins but only some can see data.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 34809.67,
+      "failure_reason": null,
+      "mode": "deep"
+    },
+    {
+      "prompt": "Create a social media platform.",
+      "success": true,
+      "stages_completed": 4,
+      "issues_found": 0,
+      "retries": 0,
+      "latency_ms": 55881.15,
+      "failure_reason": null,
+      "mode": "deep"
+    }
+  ]
+}
