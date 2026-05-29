@@ -295,7 +295,7 @@ These checks are fast and don't consume any API tokens.
 ## 📁 Project Structure
 
 ```
-compiler-project/
+app-compiler/
 │
 ├── backend/
 │   ├── main.py                    ← FastAPI server, route handlers, mode switcher
